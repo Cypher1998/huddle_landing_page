@@ -1,0 +1,16 @@
+{
+  "name": "huddle-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./input.css -o ./dist/style.css --build",
+    "watch": "npx tailwindcss -i ./input.css -o ./dist/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Moroof Adeyemi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
