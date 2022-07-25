@@ -8,8 +8,8 @@ Designing the Huddle Landing Page
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/Cypher1998/huddle_landing_page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/Cypher1998/huddle_landing_page)
+- Live Site URL: [Huddle-Landing-Page](https://cypher-huddle-landing-page.netlify.app/)
 
 ### Built with
 
@@ -21,10 +21,6 @@ Designing the Huddle Landing Page
 ### What I learned
 
 I recently learnt tailwind, hence applying it in this project is an upgrade to my knowledge
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ## Author
 

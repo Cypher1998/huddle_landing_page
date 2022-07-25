@@ -18,7 +18,7 @@
 
 @media (min-width: 768px) {
   #navMain {
-    background: url('../images//bg-hero-desktop.svg') 30px -20px / cover no-repeat,
+    background: url('../images/bg-hero-desktop.svg') 30px -20px / cover no-repeat,
       hsl(193, 100%, 96%);
   }
 }
